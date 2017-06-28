@@ -1,0 +1,270 @@
+/* ============================
+
+          COLOR 
+
+=============================== */
+  .search-form-button:hover,
+  .seotop-not-top .primary-menu > li.current-style-menu-1 > a,
+  .collapse-button:hover,
+  .fw-special-title span,
+  .current-style-menu-1 > a,
+  .sub-primary-menu a:hover,
+  .primary-menu > li:hover > a,
+  .services-rm-btn,
+  .case-readmore-btn:hover,
+  .our-blog-special-btn:hover,
+  .footer-tw-cmt a.footer-tweet-user,
+  .right-copyright a:hover,
+  .our-blog-top-news h4:hover a,
+  .our-blog-top-news h4:hover i,
+  .footer-email-input:focus,
+  .footer-email-input:focus::-webkit-input-placeholder,
+  .free-seo-col input:focus,
+  .free-seo-col input:focus::-webkit-input-placeholder,
+  .left-copyright .site-name,
+  .footer-link-list a:hover,
+  .footer-popular-post a:hover,
+  .acc_rm,
+  .menu-style-2 .primary-menu > li > a.current-style-menu-2,
+  .menu-style-2 .action-menu a:hover,
+  .menu-style-2 .primary-menu > li:hover > a,
+  .green-color,
+  .btn-no-bg,
+  .btn-normal:hover,
+  .services-get-quote button:hover,
+  .services-get-quote input:focus,
+  .services-get-quote textarea:focus,
+  .services-faqs li:hover a,
+  .services-faqs li:hover i,
+  .comment-form input[type='submit'],
+  .comment-btn-reply,
+  .blog-btn-read-more a:hover,
+  .contact-info-btn a:hover,
+  .contact-form button,
+  .contact-form input:focus,
+  .action-menu li a:hover,
+  .has-seo-children-menu:hover > a,
+  .has-seo-children-menu:hover:after
+  {
+    color: #636363;
+  }
+/*  TEXT COLOR 2 */
+.tel:before,
+.error-desc a,
+.case-like span:before,
+.case-name-btn:hover,
+.case-cate:before,
+.case-cate a:hover,
+.free-seo-times span,
+.ourblog-name a:hover,
+.ourblog-bottom-info dt:before,
+.ourblog-bottom-info dd:before,
+.about-live-desc a,
+.about-live-by .accordion_in .acc_content a,
+.comment-time,
+.comment-btn-reply:hover,
+.control-post-name a:hover,
+.control-post-btn,
+.blog-post-date-number,
+.blog-post-under-date a:hover,
+.blog-total-post a,
+.pagination span,
+.pagination a:hover,
+.blog-single .blog-post-sumary p a,
+.blog-post-name a:hover,
+.widget_categories li:hover:before,
+.widget_categories a:hover,
+.widget_twitter .tweet-link,
+.victorious-list-tabs li:before,
+.victorious-ccordion .accordion_in .acc_head:before,
+.services-tes-rate span,
+.srvice-detail-info-bottom .btn-normal,
+.case-detail-content a,
+.chathead a:hover,
+.our-blog-date,
+.our-brand-text-name,
+.our-partient-speak-rate span{
+  color: #00c4cc;
+}
+
+/* ============================
+
+         BACKGROUND COLOR 
+
+=============================== */
+  .topbar-btn,
+  .btn-normal,
+  .free-seo-col button,
+  .footer-email-submit,
+  .btn-no-bg:hover,
+  .about-video-btn,
+  .footer-tag-list a:hover,
+  .menu-style-2 .primary-menu > li > a:before,
+  .menu-style-2 .primary-menu > li > a:after,
+  .sub-primary-menu a:before,
+  .services-rm-btn:hover,
+  .srvice-detail-info-bottom,
+  .services-get-quote button,
+  .btn-buss,
+  .comment-form input[type='submit']:hover,
+  .blog-btn-read-more a,
+  .blog-post-video-btn:hover,
+  .widget_search form input:focus,
+  .case-detail-quote-input:focus,
+  .case-detail-quote-select:focus,
+  .case-detail-quote-submit,
+  .case-isotope button.is-checked,
+  .contact-info-btn a,
+  .contact-form button:hover,
+  .pricing-table-item:hover .pricing-table-img,
+  .pricing-table-item:hover .pricing-table-get{
+    background-color: #636363;
+  }
+
+
+.what-we-offer-item:hover:after,
+.our-blog-overlay:before,
+.case-overlay-banner{
+  background-color: #636363;
+  opacity: 0.95;
+}
+.about-video-btn:hover{
+  color: #00c4cc;
+}
+/*  BACKGROUND  COLOR 2 */
+.counter-circle,
+.reputation-crs .owl-page.active span,
+.reputation-crs .owl-page.active span:hover,
+.services-crs .owl-page:after,
+.services-crs .owl-page.active span,
+.services-crs .owl-page.active span:hover,
+.services-crs .owl-page span:before,
+.services-crs .owl-page span:after,
+.services-effect:before,
+.services-title:before,
+.services-title:after,
+.about-team-title:before,
+.about-team-title:after,
+.about-team-effect:before,
+.about-live-by .accordion_in.acc_active .acc_head .acc_icon_expand:before,
+.blog-post-video-btn,
+.widget_tag_cloud a:hover,
+.victorious-item:before,
+.services-tes-author:before,
+.service-detail-accordin .accordion_in.acc_active .acc_head .acc_icon_expand:before,
+.srvice-detail-info-bottom .btn-normal:hover,
+.counter-2-img:before,
+.case-detail-more-crs .case-study .owl-page.active span,
+.case-detail-more-crs .case-study .owl-page.active span:hover,
+.topbar-btn:hover,
+.action-menu span,
+.full-range-crs .slick-active button,
+.full-range-accordion .accordion_in.acc_active .acc_head:before,
+.our-brand-text-name:after,
+.our-branding-accordion .accordion_in.acc_active > .acc_head .acc_icon_expand:before,
+.our-partient-speak .owl-page.active span,
+.client .slick-active button,
+.pricing-results-crs .owl-page.active span,
+.pricing-results-crs .owl-page.active span:hover{
+  background-color: #00c4cc;
+}
+
+/* BOX SHADOW COLOR 1*/
+.reputation-crs .owl-page.active span:before,
+.pricing-results-crs .owl-page.active span:after,
+.reputation-crs .owl-page.active span:after{
+  background: #00c4cc;
+}
+.full-range-crs .slick-active button:before,
+.full-range-accordion .accordion_in.acc_active .acc_head:after,
+.client .slick-active button:before{
+  background: #00c4cc;
+  opacity: .3;
+}
+.our-partient-speak .owl-page.active span{
+  opacity: 1;
+}
+.our-partient-speak .owl-page span{
+  background: #00c4cc;
+  opacity: .5;
+}
+
+/* BOX SHADOW COLOR 2*/
+.services-effect:before,
+.about-team-effect:before{
+  box-shadow: 0 0 6px #00c4cc;
+}
+@media (max-width:1340px){
+  .services-crs .owl-controls .owl-pagination .owl-page.active{
+    background-color: #00c4cc;
+  }
+}
+/* ============================
+
+         BORDER COLOR 
+
+=============================== */
+  .right-copyright a:hover,
+  .footer-email-submit:hover,
+  .footer-email-input:focus,
+  .btn-normal:hover,
+  .btn-no-bg,
+  .free-seo-col button:hover,
+  .free-seo-col input:focus,
+  .services-get-quote button:hover,
+  .services-get-quote input:focus,
+  .services-get-quote textarea:focus,
+  .comment-form input[type='submit'],
+  .comment-btn-reply,
+  .blog-btn-read-more a:hover,
+  .case-detail-quote-submit:hover,
+  .case-isotope button.is-checked,
+  .case-isotope button:hover,
+  .contact-info-btn a:hover,
+  .contact-form button,
+  .contact-form input:focus{
+    border-color: #636363;
+  }
+  .comment-form input[type='text']:focus,
+  .comment-form textarea:focus{
+    color: #636363;
+    border-bottom-color: #636363;
+  }
+  .comment-form input[type='text']:focus::-webkit-input-placeholder,
+  .comment-form textarea:focus::-webkit-input-placeholder{
+    color: #636363;
+  }
+/*  BORDER  COLOR 2 */
+.about-live-by .accordion_in.acc_active .acc_head .acc_icon_expand:before,
+.comment-btn-reply:hover,
+.widget_tag_cloud a:hover,
+.victorious-tabs-menu-current .victorious-item:after,
+.victorious-item:hover:after,
+.service-detail-accordin .accordion_in.acc_active .acc_head .acc_icon_expand:before,
+.srvice-detail-info-bottom .btn-normal:hover,
+.counter-2-img:hover:after{
+ border-color: #00c4cc;
+}
+.features-services-item:hover{
+  border-left-color: #00c4cc;
+}
+
+// SLIDER BUTTON
+.slider-button:hover{
+  color: #636363;
+  background-color: #ffffff;
+}
+.slider-button{
+   color: #ffffff;
+  background-color: #636363;
+}
+
+/******************************************************************************
+  Max Width "991px"
+*******************************************************************************/
+@media @sm-max {
+/* Content Select In Browser */
+.collapse-button:hover,
+.primary-menu li a:hover{
+  color: #636363;
+}
